@@ -3,7 +3,7 @@
 This repository presents a set of exercises and mini-projects focused on solving foundational supply chain challenges through analytical modeling. As someone passionate about the intersection of data, operations, and strategic impact, this repository explores demand prediction, inventory management, and logistics solutions using analytics tools and techniques.
 
 
-Each project models a critical component of the supply chain — from procurement and distribution to inventory control and network design — using tools like Python and Excel. These exercises reflect the analytical thinking and structured problem-solving I bring to data-driven consulting and engineering roles.
+Each project models a critical component of the supply chain from procurement and distribution to inventory control and network design using tools like Python and Excel. These exercises reflect the analytical thinking and structured problem-solving I bring to data-driven consulting and engineering roles.
 
 ## 🔍 What’s Inside
 
@@ -24,10 +24,10 @@ Each project models a critical component of the supply chain — from procuremen
 
 ## 🎯 Why This Matters
 
-In today’s dynamic global markets, supply chains are more than cost centers — they’re strategic levers for growth, resilience, and sustainability. This work reflects my ability to dissect complex business systems, design scalable data models, and communicate insights in ways that drive action.
+In today’s dynamic global markets, supply chains are more than cost centers; they’re strategic levers for growth, resilience, and sustainability. This work reflects my ability to dissect complex business systems, design scalable data models, and communicate insights in ways that drive action.
 
 As I continue to build expertise in data engineering and analytics consulting, I see opportunities to evolve these models into integrated, automated workflows that support smarter, real-time decisions across industries. Whether optimizing operations or advising on digital transformation, I’m driven by the impact that thoughtful data strategy can make on business performance.
 
 ---
 
-👩‍💻 Built with a consultant’s mindset and an engineer’s toolkit. If you’d like to collaborate, discuss improvements, or explore how these approaches can scale — feel free to reach out!
+👩‍💻 Built with a consultant’s mindset and an engineer’s toolkit. If you’d like to collaborate, discuss improvements, or explore how these approaches can scale, feel free to reach out!
