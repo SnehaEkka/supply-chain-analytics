@@ -6,9 +6,11 @@ This exercise applies **time series forecasting techniques** to real-world retai
 
 ## Business Objective
 
-To empower decision-makers with practical methods for forecasting demand and financial time series, this exercise addresses:
-- **How can we best model and forecast sales-related data with and without trend/seasonality?**
-- **What approach provides the most accurate and actionable forecasts for inventory and financial planning in a retail context?**
+To help decision-makers plan more effectively, this exercise answers:
+- **How can we best forecast and plan for different types of supply chain and financial time series data—whether stable, trending, or highly seasonal?**
+- **What methods provide the most accurate and business-ready predictions for operational and strategic planning?**
+
+Businesses need to navigate uncertain and varied demand patterns—some predictable, some erratic, some driven by trends or seasonality. This analysis equips analysts and managers with practical, actionable forecasting tools—comparing classic and modern methods—so organizations can make more informed decisions about inventory, capacity, and financial risk across retail, airlines, and digital assets. By translating data into clear forecasts, the exercise bridges the gap between analytical rigor and everyday business needs.
 
 ## Datasets
 
