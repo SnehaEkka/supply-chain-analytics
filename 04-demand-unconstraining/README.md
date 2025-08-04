@@ -14,7 +14,7 @@ Organizations risk leaving money on the table if they fail to account for lost o
 
 ## Datasets
 
-- **grocery_data.xlsx:** Hourly sales data of a perishable product (Pain de Boulogne) with observed daily censored sales—once inventory ran out, further demand was not directly captured.
+- **grocery_data.xlsx:** Hourly sales data of a perishable product (Pain de Boulogne) with observed daily censored sales once inventory ran out, further demand was not directly captured.
 
 ## Methods & Analysis
 
@@ -24,7 +24,7 @@ Organizations risk leaving money on the table if they fail to account for lost o
 
 - **Double Exponential Smoothing (DES):**
   - Applied DES to each day's observed cumulative hourly sales curve, using burn-in for early hours.
-  - Tested multiple (alpha, beta) pairs to minimize smoothing error and completed the censored curves by forecast—yielding estimated final sales for each day as if inventory had been unlimited.
+  - Tested multiple (alpha, beta) pairs to minimize smoothing error and completed the censored curves by forecast, yielding estimated final sales for each day as if inventory had been unlimited.
 
 - **Averaging Method:**
   - Reconstructed unconstrained arrival rates by averaging observed hourly sales across non-censored days.
@@ -44,26 +44,26 @@ Organizations risk leaving money on the table if they fail to account for lost o
 ## Key Results
 
 - **DES and Averaging Methods (Products):**
-  - Both approaches provide a defensible estimate of what true sales would have been each day if there was unlimited inventory. The DES method traces demand curves based on smoothed trends, while the Averaging method leverages peer day patterns.
+  - Both approaches provide a defensible estimate of what true sales would have been each day if there were unlimited inventory. The DES method traces demand curves based on smoothed trends, while the Averaging method leverages peer day patterns.
   - **Interpretation:** These numbers reveal real customer interest, supporting better forecasting, ordering, and supply allocation—so businesses stop understocking and missing sales when demand is strong.
 
 - **Proportional Method (Services):**
   - Estimates bookings lost due to room constraints, allowing the hotel to more realistically forecast demand, set prices, and plan for future busy dates.
   - **Interpretation:** The results show “hidden” demand—potential bookings missed due to capacity limits. Accurately estimating these helps optimize both pricing and resource allocation.
 
-- **Why do methods differ?** Each method makes different assumptions about customer behavior after censoring (smooth continuation, average pattern, or proportional projection). Variation in approach yields slightly different demand estimates—but all are superior to simply using raw, censored data.
+- **Why do methods differ?** Each method makes different assumptions about customer behavior after censoring (smooth continuation, average pattern, or proportional projection). Variation in approach yields slightly different demand estimates, but all are superior to using raw, censored data alone.
 
 ## Business Impact & Interpretation
 
 - **True Demand Visibility:** These methods reveal what businesses cannot see in their raw sales records, enabling more confident and profitable operations, purchasing, and marketing.
 - **Preventing Under-ordering:** By accounting for censored demand, businesses can stock, staff, or allocate capacity more in line with actual market needs, protecting reputation and revenue.
-- **Revenue Optimization:** Accurate unconstraining is a cornerstone of modern retail and service analytics—unlocking better pricing, forecasting, and growth strategies.
+- **Revenue Optimization:** Accurate unconstraining is a cornerstone of modern retail and service analytics, unlocking better pricing, forecasting, and growth strategies.
 
 ## How to Run / Reproduce
 
 1. Open `BA875-Ex-4-Demand-Unconstraining.ipynb`.
 2. Ensure `grocery_data.xlsx` and any relevant booking datasets are present.
-3. Run notebook cells in order for a walkthrough—including data prep, method comparison, calculation of unconstrained estimates, and interpretation.
+3. Run notebook cells in order for a walkthrough, including data prep, method comparison, calculation of unconstrained estimates, and interpretation.
 
 ### Requirements
 
