@@ -20,11 +20,10 @@ Each project models a critical component of the supply chain from procurement an
 - **Business Optimization**: Applied operations research methods to improve procurement, inventory, and distribution decisions.
 - **Mathematical Modeling**: Used linear and integer programming techniques to represent business constraints and objectives.
 - **Analytical Storytelling**: Interpreted model outputs in a business context to inform tactical and strategic decision-making.
-- **Tools Used**: Python (PuLP), Excel, NumPy, Matplotlib
 
 ## 🔧 Tools Used
 - **Programming:** Python (Pandas, NumPy, PuLP, matplotlib, seaborn)
-- **Modeling & Optimization:** PuLP for linear/integer programming, Excel for supplementary modeling and scenario analysis
+- **Modeling & Optimization:** Open Solver (Excel) for modeling and scenario analysis, PuLP for linear/integer programming
 - **Analysis Environment:** Jupyter Notebook (analysis, modeling, documentation)
 - **Visualization:** matplotlib, seaborn
 
