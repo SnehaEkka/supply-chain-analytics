@@ -22,11 +22,15 @@ Each project models a critical component of the supply chain from procurement an
 - **Analytical Storytelling**: Interpreted model outputs in a business context to inform tactical and strategic decision-making.
 - **Tools Used**: Python (PuLP), Excel, NumPy, Matplotlib
 
+## 🔧 Tools Used
+- **Programming:** Python (Pandas, NumPy, PuLP, matplotlib, seaborn)
+- **Modeling & Optimization:** PuLP for linear/integer programming, Excel for supplementary modeling and scenario analysis
+- **Analysis Environment:** Jupyter Notebook (analysis, modeling, documentation)
+- **Visualization:** matplotlib, seaborn
+
 ## 🎯 Why This Matters
 
-In today’s dynamic global markets, supply chains are more than cost centers; they’re strategic levers for growth, resilience, and sustainability. This work reflects my ability to dissect complex business systems, design scalable data models, and communicate insights in ways that drive action.
-
-As I continue to build expertise in data engineering and analytics consulting, I see opportunities to evolve these models into integrated, automated workflows that support smarter, real-time decisions across industries. Whether optimizing operations or advising on digital transformation, I’m driven by the impact that thoughtful data strategy can make on business performance.
+In today’s dynamic global markets, supply chains are more than cost centers; they’re strategic levers for growth, resilience, and sustainability. This work demonstrates my ability to dissect complex business systems, design scalable data models, and communicate insights in a way that drives action. As I continue to build expertise in data engineering and analytics consulting, I see opportunities to evolve these models into integrated, automated workflows that support smarter, real-time decisions across industries.
 
 ---
 
