@@ -5,15 +5,16 @@ This repository presents a set of exercises and mini-projects focused on solving
 
 Each project models a critical component of the supply chain from procurement and distribution to inventory control and network design using tools like Python and Excel. These exercises reflect the analytical thinking and structured problem-solving I bring to data-driven consulting and engineering roles.
 
-## 🔍 What’s Inside
+Here is the corrected "What’s Inside" section for the Supply Chain Analytics repository reflecting the actual folders and focus areas from the repo:
 
-| Folder | Focus Area | Description |
-|--------|------------|-------------|
-| `EOQ-model` | Inventory Optimization | Uses the Economic Order Quantity (EOQ) model to minimize total inventory costs by balancing ordering and holding costs. |
-| `Procurement-allocation-model` | Supplier Strategy | Formulates an optimization model for allocating purchases across suppliers while considering cost and capacity constraints. |
-| `Distribution-model` | Logistics Planning | Solves a transportation problem to optimize product distribution from warehouses to demand centers at minimal cost. |
-| `Inventory-control-policies` | Risk & Demand Uncertainty | Compares fixed-order and periodic-review inventory control policies under varying demand scenarios. |
-| `Supply-chain-network-design` | Network Optimization | Designs an end-to-end supply chain network using mathematical programming to determine optimal facility locations and flows. |
+## 📁 What’s Inside
+| Folder                     | Focus Area                    | Description                                                                                                  |
+|----------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------|
+| `01-forecasting-price-changes` | Price Change Forecasting       | Develops models to forecast product price changes over time using historical pricing data and relevant features. |
+| `02-time-series-forecasting`     | Demand Forecasting             | Applies time series analysis techniques to predict future product demand, supporting supply planning decisions. |
+| `03-pricing-analysis`            | Pricing Strategy & Analytics  | Analyzes pricing data to evaluate and optimize pricing strategies, including elasticity and competitive positioning. |
+| `04-demand-unconstraining`       | Demand Estimation             | Implements methods to unconstrain and adjust observed sales data to estimate true demand in restricted environments better. |
+| `05-inventory-and-capacity-planning` | Inventory & Capacity Planning | Models inventory levels and capacity requirements to balance service levels with operational costs and constraints. |
 
 ## 💡 Key Skills Demonstrated
 
